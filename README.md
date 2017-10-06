@@ -1,4 +1,4 @@
-### Exacttarget Data Models
+## Exacttarget Data Models
 
 Current Version: 0.0.1
 
